@@ -64,9 +64,9 @@ Deepkart is a shopping assistant mobile app that shows users the best price and 
 
 The app is in development stage
 
-[Test the app] (https://streamlit-custom-survey-form.herokuapp.com/)
+[Test the app] (https://appdistribution.firebase.dev/i/d041b08ed194db74)
 
 <!-- CONTACT -->
 ## Contact
 
-Ameya Upalanchi - [@your_twitter](https://twitter.com/your_username) - ameya.upalanchi18@vit.edu
+Ameya Upalanchi - ameya.upalanchi18@vit.edu
