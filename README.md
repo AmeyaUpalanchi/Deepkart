@@ -11,7 +11,7 @@
     AI Powered Shopping Assistant
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://appdistribution.firebase.dev/i/d041b08ed194db74">View Demo</a>
     ·
     <a href="https://github.com/AmeyaUpalanchi/Deepkart/issues">Report Bug</a>
     ·
