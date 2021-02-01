@@ -13,9 +13,9 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/AmeyaUpalanchi/Deepkart/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/AmeyaUpalanchi/Deepkart/issues">Request Feature</a>
   </p>
 </p>
 
@@ -37,13 +37,22 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](./images/1.png  "HOME SCREEN")
+<p float="left">
+  <img src="./images/5.png" width="280" height="320" />
+  .
+  <img src="./images/4.png" width="280" height="320" />
+  .
+  <img src="./images/3.png" width="280" height="320" />
+  .
+  <img src="./images/2.png" width="280" height="320" />
+  .
+  <img src="./images/1.png" width="280" height="320" />
 
+</p>
 Deepkart is a shopping assistant mobile app that shows users the best price and top deals of products from top ecommerce stores in India. User can also find products by scanning product text 
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [React native](https://reactnative.dev/)
 * [Algolia](https://www.algolia.com/)
 * [Firebase](https://firebase.google.com/)
@@ -53,14 +62,11 @@ This section should list any major frameworks that you built your project using.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The app is in development stage
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+[Test the app] (https://streamlit-custom-survey-form.herokuapp.com/)
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Ameya Upalanchi - [@your_twitter](https://twitter.com/your_username) - ameya.upalanchi18@vit.edu
